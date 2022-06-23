@@ -1,5 +1,5 @@
 # AlienBreaker 
-- basic Minigame based on popular Brick breaker game 
+- Minigame based on popular Brick breaker game 
 - Project is built in processing language (Java-like syntax) 
 
 How to install & play: 
